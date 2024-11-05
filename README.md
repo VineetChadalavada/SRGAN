@@ -34,7 +34,7 @@ The project is organized as follows:
   ```bash
   pip install tensorflow keras matplotlib numpy
 
-  ### 4. Training Process
+### 4. Training Process
 
 This project involves the following main steps:
 
