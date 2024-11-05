@@ -75,9 +75,9 @@ Summary of the results, including comparisons between Model A and Model B:
 #### Running the Code
 1. Open the Jupyter Notebooks in `notebooks/`.
 2. Follow the steps in each notebook:
-   - **`SRGAN_Training.ipynb`:** For training the SRGAN model.
-   - **`Model_A_Training.ipynb`:** For training Model A on the original high-resolution dataset.
-   - **`Model_B_Training.ipynb`:** For training Model B on SRGAN-generated images.
+   - **`SRGAN_vchadala.ipynb`:** For training the SRGAN model.
+   - **`Model_A_vchadala.ipynb`:** For training Model A on the original high-resolution dataset.
+   - **`Model_B_vchadala.ipynb`:** For training Model B on SRGAN-generated images.
 
 3. **Evaluation Notebook:** Create a notebook (e.g., `Evaluation.ipynb`) to run the evaluation metrics on both models and compare the results.
 
