@@ -1,7 +1,5 @@
 # SRGAN
 
-# SRGAN for Super-Resolution
-
 A Super-Resolution Generative Adversarial Network (SRGAN) to upscale low-resolution images to high-resolution images, specifically designed for binary classification tasks (e.g., classifying cats vs. dogs). This README will guide you through the project setup, training process, and usage.
 
 ## Table of Contents
