@@ -3,13 +3,13 @@
 A Super-Resolution Generative Adversarial Network (SRGAN) to upscale low-resolution images to high-resolution images, specifically designed for binary classification tasks (e.g., classifying cats vs. dogs). This README will guide you through the project setup, training process, and usage.
 
 ## Table of Contents
-1. [Introduction](#introduction)
-2. [Project Structure](#project-structure)
-3. [Getting Started](#getting-started)
-4. [Training Process](#training-process)
-5. [Results and Evaluation](#results-and-evaluation)
-6. [Usage](#usage)
-7. [References](#references)
+1. [Introduction](#1-introduction)
+2. [Project Structure](#2-project-structure)
+3. [Getting Started](#3-getting-started)
+4. [Training Process](#4-training-process)
+5. [Results and Evaluation](#5-results-and-evaluation)
+6. [Usage](#6-usage)
+7. [References](#7-references)
 
 ### 1. Introduction
 
@@ -88,4 +88,3 @@ If running on a terminal or command line, save the Jupyter notebooks as Python s
 
 - **SRGAN Paper:** Ledig, C., et al. "Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network."
 - **Keras Documentation:** [Keras - Deep Learning for Humans](https://keras.io/)
-
