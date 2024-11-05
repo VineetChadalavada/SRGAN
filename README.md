@@ -8,7 +8,7 @@ A Super-Resolution Generative Adversarial Network (SRGAN) to upscale low-resolut
 3. [Getting Started](#3-getting-started)
 4. [Training Process](#4-training-process)
 5. [Results and Evaluation](#5-results-and-evaluation)
-6. [References](#7-references)
+6. [References](#6-references)
 
 ### 1. Introduction
 
