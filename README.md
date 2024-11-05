@@ -38,7 +38,7 @@ The project is organized as follows:
   ```bash
   pip install tensorflow keras matplotlib numpy
 
-  ### Setup
+### Setup
 
 1. **Clone the Repository**:
    ```bash
