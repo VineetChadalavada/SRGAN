@@ -71,5 +71,6 @@ Summary of the results, including comparisons between Model A and Model B:
 
 ### 6. References
 
-- **SRGAN Paper:** Ledig, C., et al. "Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network."
+- **SRGAN Paper:** Ledig, C., et al. "Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network. (
+https://doi.org/10.48550/arXiv.1609.04802)"
 
