@@ -37,6 +37,17 @@ The project is organized as follows:
 - Required libraries:
   ```bash
   pip install tensorflow keras matplotlib numpy
+
+  ### Setup
+
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/VineetChadalavada/SRGAN.git
+   cd SRGAN
+2. **Install Git LFS (for handling large model files)**:
+   ```bash
+   git lfs install
+   git lfs pull
 ### 4. Training Process
 
 The following steps outline the training process that I followed:
